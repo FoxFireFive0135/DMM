@@ -8,8 +8,14 @@ Make sure to install the keyboard module!
 
 To run DMM programs you must run the command :(
 
+This was made for windows, however it is extremely easy to convert it to linux / mac
+I cannot test it though :(
+
+Comes with 2 example programs!!!!
+
 -----------------------------
 Keywords:
+    
     PIZZA       
     BURGER      
     SALAD       
@@ -24,6 +30,7 @@ Keywords:
     CHEESE
 
 Command line args:
+    
     dmm.py fileToRun screenWidth screenHeight
 
     fileToRun - File to execute. Must have the .dmm extension.
