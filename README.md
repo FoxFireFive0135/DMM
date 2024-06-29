@@ -8,6 +8,9 @@ Make sure to install the keyboard module!
 
 To run DMM programs you must run the command :(
 
+This was made for windows, however it is extremely easy to convert it to linux / mac
+I cannot test it though :(
+
 -----------------------------
 Keywords:
     
