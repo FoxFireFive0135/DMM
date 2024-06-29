@@ -10,6 +10,7 @@ To run DMM programs you must run the command :(
 
 -----------------------------
 Keywords:
+    
     PIZZA       
     BURGER      
     SALAD       
@@ -24,6 +25,7 @@ Keywords:
     CHEESE
 
 Command line args:
+    
     dmm.py fileToRun screenWidth screenHeight
 
     fileToRun - File to execute. Must have the .dmm extension.
